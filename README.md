@@ -9,7 +9,7 @@ Calculates Bond's comminution energy for 10 materials including
 recycling streams.
  
 ## 🔗 Live Demo
-**[Open Tool](https://your-url.streamlit.app)**
+**[Open Tool](https://particle-tech-tool-hdcpdv9siktq3rmmn7qgzc.streamlit.app/)**
  
 ## Features
 - Rosin-Rammler and GGS model fitting
